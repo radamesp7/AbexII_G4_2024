@@ -1,6 +1,4 @@
-  Desafios para Projetos com Design Thinking
-
- Desafio 1: Gestão de Inventário
+Desafio 1: Gestão de Inventário
 Tema Principal: Eficiência Operacional
 
 Informação:
