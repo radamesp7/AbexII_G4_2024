@@ -1,5 +1,5 @@
 Desafio 1: Gestão de Inventário
-Tema Principal: Eficiência Operacional
+Tema Principal: Eficiência Operacional.
 
 Informação:
 Desenvolver um aplicativo que monitore o estoque de forma automática e em tempo real, integrando-se aos sistemas de ponto de venda e fornecendo relatórios detalhados sobre entradas, saídas e níveis críticos de produtos.
