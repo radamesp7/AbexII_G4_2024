@@ -34,3 +34,4 @@ A manutenção eficaz de equipamentos e infraestruturas é essencial para a oper
 Origem e Motivação:
 Este problema foi identificado em diversas indústrias onde a manutenção é frequentemente reativa em vez de preventiva, resultando em custos mais altos e maior tempo de inatividade. A motivação é criar uma ferramenta que facilite a programação e o acompanhamento das manutenções, promovendo a cultura da manutenção preventiva.
 
+https://drive.google.com/file/d/1VGf4YjokVXnGclx6uYSI_i3taqnivTFS/view?usp=sharing
